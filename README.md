@@ -1,4 +1,4 @@
-# typst-ucalthesis
+# typst-uclathesis
 
 [Thesis and Dissertation Filing Requirements](https://grad.ucla.edu/academics/graduate-study/thesis-and-dissertation-filing-requirements/)
 
