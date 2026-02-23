@@ -85,11 +85,6 @@ The template automatically generates pages in the required order:
 typst compile --root . example/main.typ
 ```
 
-## References
-
-- [UCLA Thesis and Dissertation Filing Requirements](https://grad.ucla.edu/academics/graduate-study/thesis-and-dissertation-filing-requirements/)
-- [UCLA Thesis and Dissertation Filing Requirements and Public Dissemination (PDF)](./UCLA%20Thesis%20and%20Dissertation%20Filing%20Requirements%20and%20Public%20Dissemination.pdf)
-
 ## Related Projects
 
 - [uclathes](https://github.com/uclathes/uclathes): UCLA Thesis LaTeX style
